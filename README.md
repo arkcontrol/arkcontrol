@@ -12,7 +12,5 @@ wget http://mirror.cloud-ark.com:8080/public_package/release/arkcontrol_resource
 ## 联系我们
 官网：www.cloud-ark.com  
 Email: marketing@cloud-ark.com  
-微信公众号：Arkcontrol  
-
-
-
+微信：Cloud-Ark  
+微信公众号：Arkcontrol
