@@ -21,3 +21,8 @@ tar -zxvf arkcontrol_install.tar.gz
 Email: marketing@cloud-ark.com  
 微信：Cloud-Ark  
 微信公众号：Arkcontrol
+
+
+# FAQ
+
+https://github.com/arkcontrol/arkcontrol/wiki/FAQ
