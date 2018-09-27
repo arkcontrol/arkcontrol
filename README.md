@@ -15,6 +15,9 @@ tar -zxvf arkcontrol.tar.gz
 3. 开始安装  
 ./deploy-server
 
+## 安装环境  
+  支持Centos 6+  
+  支持Centos 7+  
 
 ## 联系我们
 官网：www.cloud-ark.com  
