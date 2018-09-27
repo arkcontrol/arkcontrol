@@ -4,16 +4,20 @@ ArkControl是极数云舟独立自研的一套全面解决MySQL日常运维和�
 
 ## 下载安装
 
-1. 下载
+1. 下载(v0.81)
 ```
 wget http://mirror.cloud-ark.com/public_package/release/arkcontrol.tar.gz
 ```
 
 2. 解压  
+```
 tar -zxvf arkcontrol.tar.gz
+```
 
 3. 开始安装  
+```
 ./deploy-server
+```
 
 ## 安装环境  
   1. 操作系统：  
@@ -21,6 +25,10 @@ tar -zxvf arkcontrol.tar.gz
       支持Centos 7+ 
   2. 内存：  
       4G+
+     
+## Releases
+[Releases Note](https://github.com/arkcontrol/arkcontrol/wiki/Releases)
+
 
 ## 联系我们
 官网：www.cloud-ark.com  
