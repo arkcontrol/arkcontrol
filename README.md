@@ -14,7 +14,7 @@ tar -zxvf arkcontrol-${Version}.tar.gz
 ./deploy-server
 ```
 
-## 安装环境  
+## 环境要求  
   1. 操作系统：  
       支持Centos 6+  
       支持Centos 7+ 
