@@ -6,7 +6,7 @@ Arkcontrol是极数云舟独立自研的一套全面解决MySQL日常运维和�
 [Release Note](https://github.com/arkcontrol/arkcontrol/wiki/Releases)
 
 ## 下载
-前往[Download](http://mirror.cloud-ark.com/public_package/release/latest)下载最新版
+前往[Download](http://mirror.cloud-ark.com/public_package/release/latest/)下载最新版
 
 ## 安装
 ```
