@@ -33,4 +33,4 @@ Email: marketing@cloud-ark.com
 https://github.com/arkcontrol/arkcontrol/wiki/FAQ
 
 # Forum
-[forum.cloud-ark.com](forum.cloud-ark.com)
+[forum.cloud-ark.com](http://forum.cloud-ark.com)
