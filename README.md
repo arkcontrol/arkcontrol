@@ -35,8 +35,9 @@ https://github.com/arkcontrol/arkcontrol/wiki/FAQ
 # Forum
 [forum.cloud-ark.com](http://forum.cloud-ark.com)
 
-# SQL管控图片展示
+# 展示
+### SQL管控
 ![Image text](https://github.com/arkcontrol/arkcontrol/blob/master/img-folder/sql_management.png)
 
-# arkit.so插件安装成功的截图
+### arkit.so插件安装
 ![Image text](https://github.com/arkcontrol/arkcontrol/blob/master/img-folder/install_arkit_success.png)
