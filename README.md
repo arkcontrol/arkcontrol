@@ -32,7 +32,7 @@ Email: marketing@cloud-ark.com
 
 Arkcontrol想和你交朋友
 
-email: zhaopin@cloud-ark.com
+Email: zhaopin@cloud-ark.com
 
 # FAQ
 
