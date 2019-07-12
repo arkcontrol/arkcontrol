@@ -11,7 +11,7 @@ Arkcontrol是极数云舟独立自研的一套全面解决MySQL日常运维和�
 ## 安装
 ```
 tar -zxvf arkcontrol-${Version}.tar.gz
-./deploy-server
+./arkdeploy
 ```
 
 ## 环境要求  
