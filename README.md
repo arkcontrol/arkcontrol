@@ -25,7 +25,7 @@ tar -zxvf arkcontrol-${Version}.tar.gz
 官网：www.cloud-ark.com  
 Email: marketing@cloud-ark.com  
 微信：Cloud-Ark  
-微信公众号：Arkcontrol
+微信公众号：Arkcontrol  
 Arkcontrol客服微信：xzwen96 (联系可免费支持版本升级)
 
 # Recruit
