@@ -26,7 +26,7 @@ tar -zxvf arkcontrol-${Version}.tar.gz
 Email: marketing@cloud-ark.com  
 微信：Cloud-Ark  
 微信公众号：Arkcontrol  
-Arkcontrol客服微信：xzwen96 (联系可免费支持版本升级)
+Arkcontrol客服微信：xzwen96 (联系可支持企业版本升级)
 
 # Recruit
 这里有数据库内核大拿，有特立独行的代码极客，有弹指间"灰飞烟灭"的运维专家，有天马行空的产品和前端，当然也少不了能说会道的销售，我们期待能和志同道合的人一起做一些有意思的事，还等什么，赶快将你的生辰八字告诉我们吧。
